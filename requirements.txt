@@ -1,0 +1,23 @@
+# ==============================================================================
+# Apollo Hospitals Indraprastha - Care & Patient Portal
+# ==============================================================================
+# NOTE: This web application is built with React 19, TypeScript, and Vite.
+# Production dependencies are managed via npm / package.json.
+#
+# Core Node.js Package Equivalents:
+# - react >= 19.0.1
+# - react-dom >= 19.0.1
+# - vite >= 8.3.0
+# - @tailwindcss/vite >= 4.3.3
+# - tailwindcss >= 4.3.3
+# - lucide-react >= 0.546.0
+# - motion >= 12.23.24
+# - @google/genai >= 2.4.0
+# - express >= 4.21.2
+# - dotenv >= 17.2.3
+#
+# If you are integrating an auxiliary Python automation script, API proxy,
+# or continuous integration pipeline for Vercel/Cloud Run, use:
+requests>=2.31.0
+python-dotenv>=1.0.0
+urllib3>=2.0.0
