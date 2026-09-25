@@ -1,0 +1,6 @@
+{
+  "name": "Apollo Hospitals Indraprastha - Care & Patient Portal",
+  "description": "World-class healthcare platform for Indraprastha Apollo Hospitals Delhi featuring real-time doctor availability, interactive patient resources, streamlined appointment booking, secure EHR portal, medication reminders, and encrypted provider consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
